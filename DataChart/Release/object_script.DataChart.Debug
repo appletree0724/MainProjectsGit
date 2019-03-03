@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\MainWindow.o
+./debug\TimerTest.o
+./debug\CustomerDataListModel.o
+./debug\DataAgent_Int.o
+./debug\XmlManager_EquipmentInfo.o
+./debug\Xml_SpotAddress.o
+./debug\Xml_EquipmentError.o
+./debug\Xml_EquipmentInfo.o
+./debug\ChartForm.o
+./debug\moc_MainWindow.o
+./debug\moc_TimerTest.o
+./debug\moc_CustomerDataListModel.o
+./debug\moc_DataAgent_Int.o
+./debug\moc_ChartForm.o
+);

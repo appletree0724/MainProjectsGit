@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\MainWindow.o
+./release\TimerTest.o
+./release\CustomerDataListModel.o
+./release\DataAgent_Int.o
+./release\XmlManager_EquipmentInfo.o
+./release\Xml_SpotAddress.o
+./release\Xml_EquipmentError.o
+./release\Xml_EquipmentInfo.o
+./release\ChartForm.o
+./release\moc_MainWindow.o
+./release\moc_TimerTest.o
+./release\moc_CustomerDataListModel.o
+./release\moc_DataAgent_Int.o
+./release\moc_ChartForm.o
+);

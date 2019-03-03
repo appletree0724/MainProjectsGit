@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EquipmentInfoCollection>
+    <EquipmentInfo>
+        <Name>Equipment</Name>
+        <SpotAddress>
+            <B>1</B>
+            <L>2</L>
+            <H>3</H>
+        </SpotAddress>
+        <RandomError>
+            <Error_R>4</Error_R>
+            <Error_A>5</Error_A>
+            <Error_E>6</Error_E>
+        </RandomError>
+        <SystemError>
+            <Error_R>7</Error_R>
+            <Error_A>8</Error_A>
+            <Error_E>9</Error_E>
+        </SystemError>
+    </EquipmentInfo>
+</EquipmentInfoCollection>
